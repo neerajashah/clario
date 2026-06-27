@@ -1,0 +1,2 @@
+strategy,description,claim_status_accuracy,elapsed_seconds,model_calls,images_sent,total_tokens,retries,issue_type_accuracy,object_part_accuracy,severity_accuracy,evidence_standard_met_accuracy,valid_image_accuracy,risk_flags_accuracy,supporting_image_ids_accuracy
+provided_predictions,Scored from an existing predictions CSV,1.0,0.0,0,0,0,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

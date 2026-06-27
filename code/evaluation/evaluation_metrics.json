@@ -1,0 +1,66 @@
+[
+  {
+    "strategy": "provided_predictions",
+    "description": "Scored from an existing predictions CSV",
+    "total_rows": 3,
+    "field_metrics": [
+      {
+        "field": "claim_status",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "issue_type",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "object_part",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "severity",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "evidence_standard_met",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "valid_image",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "risk_flags",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      },
+      {
+        "field": "supporting_image_ids",
+        "accuracy": 1.0,
+        "matches": 3,
+        "total": 3
+      }
+    ],
+    "claim_status_distribution": {
+      "supported": 3
+    },
+    "elapsed_seconds": 0.0,
+    "model_calls": 0,
+    "images_sent": 0,
+    "total_tokens": 0,
+    "retries": 0,
+    "claim_status_accuracy": 1.0
+  }
+]

@@ -1,0 +1,16 @@
+﻿.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+Cursor.md
+dataset/images/
+dataset/bad_claims.csv
+dataset/bad_claims2.csv
+dataset/fixed_claims.csv
+dataset/fixed_claims2.csv
+dataset/missing_claims.csv
+output.csv
+code/__pycache__/
+code/evaluation/__pycache__/
