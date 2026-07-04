@@ -1,0 +1,5 @@
+streamlit>=1.32
+google-genai>=0.3.0
+python-dotenv>=1.0.0
+pandas>=2.0.0
+pillow>=10.0.0
